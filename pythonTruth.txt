@@ -2,3 +2,11 @@ Python invented by: Guido van Rossum.
 Program is a sequence of steps to be done in order.
 	* some steps are conditional and may be skipped.
 	* some steps (group of steps) are to be repeated.
+
+Reserved Words:
+	(False,	 None,		True,	  and,		as,	assert,	break,
+	class,	 if,		def,	  del,		elif,	else,	except,
+	return,	 for,		from,	  global,	try,	import,	in,
+	is,	 lambda, 	while,	  not,		or,	pass,	raise,
+	finally, continue,	nonlocal, with,		yield)
+
